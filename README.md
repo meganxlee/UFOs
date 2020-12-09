@@ -7,10 +7,10 @@ The purpose of this analysis is to provide a more in-depth analysis of UFO sight
 By using the table to the left, you are able to filter for specific search criteria such as date, city, state, country, and shape. In my example below, I am filtering based on two criteria: "ca" for the state and "light" for the shape.
 
 I first enter "ca" into the State filter box to only see the results for "ca". 
-![ca_nasa](images/ca_nasa.jpg)
+![ca_nasa](static/images/ca_nasa.jpg)
 
 I then type in "light" into the Shape filter box to further filter my search results to only show results under these two parameters. 
-![ca_light](images/ca_light.jpg)
+![ca_light](static/images/ca_light.jpg)
 
 The results to the right will update once parameters are entered into the table filter. 
 
